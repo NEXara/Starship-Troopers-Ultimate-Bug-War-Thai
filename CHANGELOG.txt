@@ -1,12 +1,11 @@
-1.0.0 — Initial official release — 2026-11-15
+Release 1.0.0 — 15 พฤศจิกายน 2569
 
-Official numbering restarts at 1.0.0; earlier 1.0.1–1.0.3 were test iterations.
-- 6,669 scoped localization identities: 751 objectives, 5,287 dialogue/commentary and 631 narrative/gameplay/UI/status entries.
-- Adds 123 keys found during the final coverage audit: tactical support descriptions, mission/deployment reports, results, achievements and warning dialogs.
-- Preserves original font baselines/line-box metrics, Latin glyph widths and Thai shaping tables.
-- Standalone desktop installer, TH icon, NEXara credit, source-linked Info cards and complete OFL notices.
-- English (ENG) reminder, Steam-folder examples, install/update and restore-English support.
-- Supports migration from exact known test-package hashes, including test 1.0.3.
-- No game launch, save edits or ReShade changes. No online upload has been performed by this build process.
+- แปลเนื้อเรื่อง เป้าหมายภารกิจ ซับบทพูด และคำอธิบายระหว่างเล่น ครอบคลุม 6,669 Key
+- รองรับรายงานสถานการณ์ Tactical Support, Achievements และหน้าสรุปผลภารกิจ
+- รวมฟอนต์ไทยและตัวติดตั้ง พร้อมอัปเดตม็อดและคืนภาษาเดิมได้ในโปรแกรมเดียว
+- รองรับ Starship Troopers: Ultimate Bug War! บน Steam build 22832378
 
-User accepted tested gameplay. Automated validation does not establish every line/scene/resolution as tested. General menus/settings, physical key names, proper names and original credits/legal notices intentionally retain English.
+ตั้งภาษาเกมเป็น English (ENG) และเปิด Subtitles เพื่อใช้ซับไทย
+ชื่อเฉพาะและเมนู/การตั้งค่าส่วนใหญ่ยังคงภาษาอังกฤษ
+
+Made with AI by NEXara (ใช้ AI แปลทั้งหมดเพราะงั้นไม่รับประกันคุณภาพการแปล)
