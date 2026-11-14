@@ -5,9 +5,9 @@ param(
  [switch]$SelfTest
 )
 $ErrorActionPreference = 'Stop'
-$expectedInstallerHash = '9d4c4be6000abbcde9724015b05517ea8f2e2c92c4b37e22522bc6c6430afd3c'
+$expectedInstallerHash = '89e92e6c3f1b64589707eb10b7e7274d8a7d0b24c50981fabcbfa7719e6a86a1'
 $inputInstaller = (Resolve-Path -LiteralPath $InstallerPath).Path
-if ((Get-FileHash -LiteralPath $inputInstaller -Algorithm SHA256).Hash.ToLowerInvariant() -ne $expectedInstallerHash) { throw 'Use the exact official 1.0.0 installer. Input hash does not match.' }
+if ((Get-FileHash -LiteralPath $inputInstaller -Algorithm SHA256).Hash.ToLowerInvariant() -ne $expectedInstallerHash) { throw 'Use the exact official 1.0.1 installer. Input hash does not match.' }
 $taskTemp = Join-Path ([IO.Path]::GetTempPath()) ('UBWThai-build-' + [Guid]::NewGuid().ToString('N'))
 $compilerPath = Join-Path $env:WINDIR 'Microsoft.NET\Framework64\v4.0.30319\csc.exe'
 if (!(Test-Path -LiteralPath $compilerPath)) { $compilerPath = Join-Path $env:WINDIR 'Microsoft.NET\Framework\v4.0.30319\csc.exe' }
