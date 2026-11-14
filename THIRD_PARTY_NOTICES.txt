@@ -1,0 +1,34 @@
+Third-party notices — Starship Troopers Thai 1.0.0
+
+Game, story, characters and trademarks: their original owners.
+Starship Troopers ™ & ©2026 TriStar Pictures, Inc.
+Game software excluding TriStar elements: ©2026 Dotemu SAS.
+Developer Auroch Digital Ltd; publishers Dotemu / Game Source Entertainment.
+This community mod is not endorsed by these parties and requires the original game.
+
+Modified font software: SIL Open Font License 1.1.
+UBWThai Display derives from Orbitron and Noto Sans Thai.
+UBWThai Tech derives from Oxanium and Noto Sans Thai.
+UBWThai Sans derives from Noto Sans and Noto Sans Thai.
+Modified primary names avoid reserved font names; engine resource paths remain unchanged.
+Original glyphs, ASCII advance widths and original baseline/line-box metrics preserved.
+All copyright notices are reproduced in licenses/FONT-NOTICES.txt.
+Full applicable licenses are in licenses/*-OFL.txt and inside the installer's Info viewer.
+The fonts retain OFL terms independently from the surrounding mod and installer.
+
+Sources
+https://github.com/theleagueof/orbitron
+https://github.com/sevmeyer/oxanium
+https://github.com/notofonts/noto-fonts
+https://github.com/notofonts/thai
+
+Development-only tools (not redistributed in the end-user package)
+repak — https://github.com/trumank/repak — MIT / Apache-2.0
+retoc — https://github.com/trumank/retoc — MIT
+FontTools — https://github.com/fonttools/fonttools — MIT
+ooz-wasm — https://github.com/SnosMe/ooz-wasm — GPL-3.0-or-later
+
+AI disclosure
+OpenAI Codex generated translation text and installer code with user direction/testing.
+The TH icon was generated with OpenAI ImageGen. Public documentation was AI-assisted/generated.
+No synthetic voice/audio is included. No blanket licence to original game content is granted here.

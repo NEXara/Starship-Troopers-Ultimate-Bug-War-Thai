@@ -1,0 +1,51 @@
+Starship Troopers: Ultimate Bug War! — Thai Community Mod
+Version 1.0.0 | 15 November 2026
+
+ข้อมูล
+แปลเนื้อเรื่อง คำอธิบายภารกิจ เป้าหมาย บทพูด ซับไตเติล และข้อความช่วยเล่นตามขอบเขต 6,669 คีย์ คงชื่อเฉพาะภาษาอังกฤษ เมนูและการตั้งค่าส่วนใหญ่ ชื่อเฉพาะ และเครดิตเกมใช้ภาษาเดิม
+อย่าลืมตั้งภาษาในเกมเป็น English (ENG) รองรับ Steam build 22832378
+รุ่นเผยแพร่: ผู้ใช้ทดสอบใช้งานจริงและยืนยันแล้ว ไม่ได้ตรวจครบทุกฉากและทุกความละเอียด ข้อความเก็บตกก่อนเผยแพร่ผ่านการตรวจต้นฉบับและโครงสร้าง
+
+เครดิตเกม
+Developer: Auroch Digital
+Publishers: Dotemu / Game Source Entertainment
+ต้นฉบับ เนื้อเรื่อง ตัวละคร เครื่องหมายการค้า และทรัพย์สินเกมเป็นของเจ้าของสิทธิ์เดิม ม็อดชุมชนนี้ไม่ได้รับรองโดยผู้พัฒนาหรือผู้จัดจำหน่าย
+https://store.steampowered.com/app/2321780/
+
+งานแปลและตัวติดตั้ง
+Made with AI by NEXara (ใช้ AI แปลทั้งหมดเพราะงั้นไม่รับประกันคุณภาพการแปล)
+ใช้ AI (OpenAI Codex) ช่วยแปลและพัฒนา มีการตรวจโครงสร้างข้อความอัตโนมัติ การทดสอบการติดตั้งจำลอง และการทดสอบภาพในเกมโดยผู้ใช้
+คำแปลอาจมีข้อผิดพลาดด้านบริบทหรือสำนวน ไม่ได้ผ่านการตรวจแก้โดยนักแปลมืออาชีพครบทุกบรรทัด
+ขอบคุณผู้ใช้ที่ให้ภาพทดสอบและข้อเสนอแนะ
+แนวทางการใช้งานตัวติดตั้งอ้างอิงงานม็อดแปลไทย Darktide ของผู้ใช้ ใช้ระบบติดตั้งเฉพาะเกมนี้
+
+ฟอนต์ (SIL Open Font License 1.1)
+Orbitron — The Orbitron Project Authors / The League of Moveable Type
+Oxanium — The Oxanium Project Authors / Severin Meyer
+Noto Sans / Noto Sans Thai — The Noto Project Authors; Monotype Imaging Inc. ตามข้อมูลในฟอนต์ต้นทาง
+ฟอนต์ดัดแปลงใช้ชื่อ UBWThai Display / UBWThai Tech / UBWThai Sans เพิ่มอักษรไทยจาก Noto Sans Thai รักษารูปอักษรและความกว้าง ASCII เดิม คงระยะบรรทัดและแนวฐานเดิมของเกม
+ชื่อไฟล์ทรัพยากรของเกมคงเดิมเพื่ออ้างอิงได้ ฟอนต์ดัดแปลงเผยแพร่ภายใต้ OFL 1.1 ไม่จำหน่ายแยก
+ดูข้อความใบอนุญาตเต็มในแท็บและไฟล์ OFL ที่แนบ
+https://github.com/theleagueof/orbitron
+https://github.com/sevmeyer/oxanium
+https://github.com/notofonts/noto-fonts
+https://github.com/notofonts/thai
+
+เครื่องมือใช้ระหว่างพัฒนา (ไม่รวมโปรแกรมเหล่านี้ในตัวติดตั้ง)
+repak 0.2.2 — trumank/repak, MIT / Apache-2.0
+retoc 0.1.5 — trumank/retoc, MIT
+FontTools 4.55.3 — FontTools contributors, MIT
+ooz-wasm 2.0.0 — Alexander Drozdov (SnosMe/ooz-wasm), GPL-3.0-or-later
+ไม่มีการแจกเกมต้นฉบับ โปรแกรม Codex, Node, Python หรือเครื่องมือแตกไฟล์เหล่านี้
+
+ข้อควรทราบ
+ปิดเกมก่อนติดตั้งหรือคืนภาษาเดิม โปรแกรมเพิ่มชุดแปล 3 ไฟล์ใน Content/Paks/~mods และข้อมูลสำหรับถอน/กู้งาน ไม่เปิดเกมอัตโนมัติ ไม่เปลี่ยนไฟล์ ReShade หรือเซฟ
+ไฟล์ที่ไม่ตรงกับรุ่นที่รู้จักจะไม่ถูกเขียนทับหรือลบ
+
+สิทธิ์ในเกมต้นฉบับ
+Starship Troopers ™ & ©2026 TriStar Pictures, Inc. All Rights Reserved.
+Game software excluding TriStar Pictures elements: ©2026 Dotemu SAS.
+โลโก้และเครื่องหมายการค้าเป็นของเจ้าของสิทธิ์ตามประกาศในเกม
+
+ไอคอนโปรแกรม TH
+สร้างด้วย OpenAI ImageGen ตามแนวทางภาพที่ผู้ใช้กำหนด ไม่ใช้ธงชาติ
