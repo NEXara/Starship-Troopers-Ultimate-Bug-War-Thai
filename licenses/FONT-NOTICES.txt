@@ -1,0 +1,9 @@
+Copyright 2016 Google Inc. All Rights Reserved.
+
+Copyright 2018 The Orbitron Project Authors (https://github.com/theleagueof/orbitron), with Reserved Font Name: "Orbitron".
+
+Copyright 2019 Severin Meyer, with Reserved Font Name Oxanium
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)
+
+Copyright 2022 The Noto Project Authors (https://github.com/notofonts/thai)
