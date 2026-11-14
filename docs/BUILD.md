@@ -2,7 +2,7 @@
 
 The release ZIP contains the installer. This source directory exposes the installer logic for review and recompilation; it does not include original game archives, source English catalogs, development decoders or a bulk extraction toolchain.
 
-On Windows with .NET Framework 4.8, obtain the official 1.0.0 installer from the release ZIP, then run from PowerShell:
+On Windows with .NET Framework 4.8, obtain the official 1.0.1 installer from the release ZIP, then run from PowerShell:
 
 ~~~powershell
 .\source\BUILD.ps1 -InstallerPath C:\Downloads\UBW-Thai-Setup.exe -OutputPath .\.build\UBW-Thai-Setup.exe -SelfTest
