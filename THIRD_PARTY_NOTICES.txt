@@ -29,6 +29,6 @@ FontTools — https://github.com/fonttools/fonttools — MIT
 ooz-wasm — https://github.com/SnosMe/ooz-wasm — GPL-3.0-or-later
 
 AI disclosure
-OpenAI Codex generated translation text and installer code with user direction/testing.
-The TH icon was generated with OpenAI ImageGen. Public documentation was AI-assisted/generated.
+AI generated translation text and installer code with user direction/testing.
+The TH icon was generated with AI. Public documentation was AI-assisted/generated.
 No synthetic voice/audio is included. No blanket licence to original game content is granted here.
